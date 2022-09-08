@@ -1,0 +1,3 @@
+[submodule "themes/white"]
+	path = themes/white
+	url = https://github.com/PossibleVing/hexo-theme-white.git
